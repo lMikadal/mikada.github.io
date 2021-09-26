@@ -1,0 +1,44 @@
+*{
+  font-family: 'Kanit', sans-serif;
+}
+#menu li.nav-item a:hover {
+    color: #eeeeee7e;
+}
+
+.sidebar {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+}
+
+.circle{
+  border-radius: 50%;
+  width: 50%;
+  max-width: 350px;
+  height: auto;
+}
+
+.them {
+  background: #C3C2BF; 
+  background: -webkit-linear-gradient(top left, #C3C2BF, #F6EC8A);
+  background: -moz-linear-gradient(top left, #C3C2BF, #F6EC8A);
+  background: linear-gradient(to bottom right, #C3C2BF, #F6EC8A);
+}
+
+b {
+  text-shadow: 3px 4px 4px #6e6b6b;
+}
+.bg-card {
+  background: #F8C32F;
+  background: -webkit-linear-gradient(top left, #F8C32F, #F6EC8A);
+  background: -moz-linear-gradient(top left, #F8C32F, #F6EC8A);
+  background: linear-gradient(to bottom right, #F8C32F, #F6EC8A);
+}
+
+.card-radius{
+  border-radius: 10%;
+}
+
+.list{
+  list-style-type: none;
+}
